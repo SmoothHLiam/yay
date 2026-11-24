@@ -22,7 +22,7 @@ It is one Python file with no dependencies beyond the standard library.
 ## Install
 
 ```bash
-git clone <this repo> yay
+git clone https://github.com/SmoothHLiam/yay.git
 ```
 
 ```bash
