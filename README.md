@@ -92,3 +92,7 @@ Add a line to `MODELS` in `yay.py` (name, LM Studio key from `lms ls`, context s
 - Downloading Spark through LM Studio's catalog has not been tested from a clean machine; the Hugging Face downloads have.
 - yay expects LM Studio to name a downloaded model after its folder. If a brain downloads but then isn't found, compare `lms ls` with the key in `MODELS`.
 - The 35B brains leave little memory for anything else on a 24 GB Mac.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). The models yay downloads are not part of this repository and carry their own licences.
